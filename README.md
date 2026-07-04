@@ -14,29 +14,25 @@ This project analyzes the Brazilian Olist E-Commerce dataset using MySQL and Pyt
 ## 📊 Data Visualizations
 
 ### Monthly Sales Trend
-![Monthly Sales](images/monthly_sales.png)
+<img width="497" height="385" alt="image" src="https://github.com/user-attachments/assets/3cf57076-9628-4bea-9155-eec71867a6b3" />
+
 
 ### Cumulative Sales by Month
-![Cumulative Sales](images/cumulative_sales.png)
+<img width="554" height="455" alt="image" src="https://github.com/user-attachments/assets/50915623-da39-461c-885e-3722073efc14" />
 
-### Year-over-Year Growth
-![YoY Growth](images/yoy_growth.png)
-
-### Revenue by Product Category
-![Revenue by Category](images/category_revenue.png)
 
 ### Top Sellers by Revenue
-![Top Sellers](images/top_sellers.png)
 
-### Customer Retention
-![Customer Retention](images/customer_retention.png)
+<img width="576" height="717" alt="image" src="https://github.com/user-attachments/assets/df83e2a4-7223-4fd6-85eb-a9e74c7ce2af" />
 
-### Moving Average of Order Values
-![Moving Average](images/moving_average.png)
+### Top 3 Customers by Year
+
+<img width="597" height="455" alt="image" src="https://github.com/user-attachments/assets/8e419c61-0244-4c62-9001-0505b3eb5e9c" />
+
 
 ## 📁 Project Structure
 ```text
-images/
+images/ 
 ├── monthly_sales.png
 ├── cumulative_sales.png
 ├── yoy_growth.png
