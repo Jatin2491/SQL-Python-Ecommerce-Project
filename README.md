@@ -39,18 +39,5 @@ This project analyzes the Brazilian Olist E-Commerce dataset using MySQL and Pyt
 
 <img width="597" height="455" alt="image" src="https://github.com/user-attachments/assets/8e419c61-0244-4c62-9001-0505b3eb5e9c" />
 
-
-## 📁 Project Structure
-```text
-images/ 
-├── monthly_sales.png
-├── cumulative_sales.png
-├── yoy_growth.png
-├── category_revenue.png
-├── top_sellers.png
-├── customer_retention.png
-└── moving_average.png
-```
-
 ## 👨‍💻 Author
 Jatin Arora
